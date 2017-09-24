@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Dinesh\Desktop\HolographicAcademy_Talk\App\Origami\bin\x86\Debug\Origami_1.0.2.0_x86_Debug.appx
+SymbolPackage=C:\Users\Dinesh\Desktop\HolographicAcademy_Talk\App\Origami\AppPackages\Origami_1.0.2.0_Debug_Test\Origami_1.0.2.0_x86_Debug.appxsym
